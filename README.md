@@ -12,8 +12,7 @@ I am a final year ECE student at NIET. l like to code 👩‍💻 apart from my 
 
 ### My Stats:
 
-[![Anamika's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamiikajha&theme=blue-green)]
-[![Anamika's github stats](https://github-readme-stats.vercel.app/api?username=anamiikajha&theme=blue-green)]
-[![Anamika's github streak](https://github-readme-streak-stats.herokuapp.com/?user=anamiikajha&theme=blue-green)](https://github.com/thesgj)
-[![Anamika's github trophy](https://github-profile-trophy.vercel.app/?username=anamiikajha&row=1)](https://github.com/thesgj)
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="anamiikajha" alt="anamiikajha-profile" /></a></p>
+[![Anamika's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamiikajha&theme=blue-green)](https://github.com/anamiikajha)
+[![Anamika's github stats](https://github-readme-stats.vercel.app/api?username=anamiikajha&theme=blue-green)](https://github.com/anamiikajha)
+[![Anamika's github streak](https://github-readme-streak-stats.herokuapp.com/?user=anamiikajha&theme=blue-green)](https://github.com/anamiikajha)
+[![Anamika's github trophy](https://github-profile-trophy.vercel.app/?username=anamiikajha&row=1)](https://github.com/anamiikajha)
