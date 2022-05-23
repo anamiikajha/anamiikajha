@@ -11,4 +11,4 @@ I am a final year ECE student at NIET. l like to code 👩‍💻 apart from my 
 - I like to do singing🎙️ and cycling 🚵‍♀️
 
 ### My Stats:
-[![Anamika's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamiikajha&theme=blue-pink)]
+[![Anamika's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamiikajha&theme=blue-green)]
