@@ -7,6 +7,6 @@
 I am a final year ECE student at NIET. l like to code 👩‍💻 apart from my department ECE. I am a Data Science Enthusiast & a self taught Developer.
 </h5>
 ### Hobbies:
--- I like to do singing🎙️ and cycling 🚵‍♀️
+- I like to do singing🎙️ and cycling 🚵‍♀️
 ### My Stats:
 [![Anamika's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamiikajha&theme=skyblue-gray)]
