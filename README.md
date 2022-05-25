@@ -4,11 +4,11 @@
 - 💽 Languages that I know are Python, C, JavaScript & Html
 - 📫 You can reach me out on my Twitter at [imrllyanamika](https://twitter.com/imrllyanamika) or at my [LinkedIn](https://www.linkedin.com/in/anamika-jha-301a571a4/)
 <h5 align="left">
-I am a final year ECE student at NIET. l like to code 👩‍💻. I am a Data Science Enthusiast & a self taught Developer.
+ I like to code 👩‍💻. I am a Data Science Enthusiast & a self taught Developer.
 </h5>
 
 ## Hobbies:
-- I like to do singing🎙️ and cycling 🚵‍♀️
+- I like to do singing and cycling 
 
 ### My Stats:
 
