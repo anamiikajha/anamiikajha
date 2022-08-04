@@ -1,10 +1,10 @@
 ### Hi there 👋, I am Anamika Jha
 - 💾 My favourite programming language is Python.
-- 📚 I’m currently learning Docker and Java.
+- 📚 I’m currently learning Docker 🐋 
 - 💽 Languages that I know are Python, C, Html, CSS & JavaScript
 - 📫 You can reach me out on my Twitter at [imrllyanamika](https://twitter.com/imrllyanamika) or at my [LinkedIn](https://www.linkedin.com/in/anamika-jha-301a571a4/)
 <h5 align="left">
- I like to code 👩‍💻. I am a Data Science Enthusiast & a self taught Developer.
+ I like to code 👩‍💻. I am a Data Science, Techonology Enthusiast & a self taught developer.
 </h5>
 
 ## Hobbies:
