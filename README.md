@@ -1,14 +1,14 @@
 ### Hi there I'm Anamika 👋🏻
- 💾 My favourite programming language is Python.
- 📚 I’m currently learning Docker 🐋 
- 💽 Languages that I know are Python, C, Html, CSS & JavaScript
- 📫 You can reach me out on my Twitter at [imrllyanamika](https://twitter.com/imrllyanamika) or at my [LinkedIn](https://www.linkedin.com/in/anamika-jha-301a571a4/)
+- 💾 My favourite programming language is Python.
+- 📚 I’m currently learning Docker 🐋 
+- 💽 Languages that I know are Python, C, Html, CSS & JavaScript
+- 📫 You can reach me out on my Twitter at [imrllyanamika](https://twitter.com/imrllyanamika) or at my [LinkedIn](https://www.linkedin.com/in/anamika-jha-301a571a4/)
 <h5 align="left">
- 👩‍💻 I like to code for fun. I am a Data Science, Techonology Enthusiast & a self taught developer.
+- 👩‍💻 I like to code for fun. I am a Data Science, Techonology Enthusiast & a self taught developer.
 </h5>
 
 ## Hobbies:
- 💠 I like singing and cycling 
+- 💠 I like singing and cycling 
 
 ### My Stats:
 
