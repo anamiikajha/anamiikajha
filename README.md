@@ -1,4 +1,4 @@
-### Hi there 👋, I am Anamika Jha
+### Hi there I'm Anamika 👋🏻
 - 💾 My favourite programming language is Python.
 - 📚 I’m currently learning Docker 🐋 
 - 💽 Languages that I know are Python, C, Html, CSS & JavaScript
