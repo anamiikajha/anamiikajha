@@ -8,7 +8,7 @@
 </h5>
 
 ## Hobbies:
-  💠 I like singing, cycling, doodling and reading.
+  💠 I like singing and cycling.
 
 ### My Stats:
 
