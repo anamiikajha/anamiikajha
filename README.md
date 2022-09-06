@@ -4,11 +4,11 @@
 - 💽 Languages that I know are Python, C, Html, CSS & JavaScript
 - 📫 You can reach me out on my Twitter at [imrllyanamika](https://twitter.com/imrllyanamika) or at my [LinkedIn](https://www.linkedin.com/in/anamika-jha-301a571a4/)
 <h5 align="left">
-- 👩‍💻 I like to code for fun. I am a Data Science, techonology enthusiast & a self taught developer.
+- 👩‍💻 I like to code for fun. I am a Data Science and techonology enthusiast.
 </h5>
 
 ## Hobbies:
-  💠 I like singing and cycling 
+  💠 I like singing, cycling, doodling and reading.
 
 ### My Stats:
 
