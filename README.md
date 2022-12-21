@@ -1,7 +1,7 @@
 ### Hi there I'm Anamika 👋
-- 💾 My favourite programming language is Python.
+- 💾 My favourite programming language is java.
 - 📚 I’m currently learning Docker 🐋 
-- 💽 Languages that I know are Python, C++, Html, CSS & JavaScript
+- 💽 Languages that I know are Python, Java, Html, CSS & JavaScript, Bootstrap, React.js, Flask
 - 📫 You can reach me out on my Twitter at [imrllyanamika](https://twitter.com/imrllyanamika) or at my [LinkedIn](https://www.linkedin.com/in/anamika-jha-301a571a4/)
 <h5 align="left">
 - 👩‍💻 I like to code for fun. I am a Data Science and technology enthusiast.
