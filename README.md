@@ -4,7 +4,7 @@
 - 💽 Languages that I know are Python, Java, Html, CSS & JavaScript, Bootstrap, React.js, Flask
 - 📫 You can reach me out on my Twitter at [imrllyanamika](https://twitter.com/imrllyanamika) or at my [LinkedIn](https://www.linkedin.com/in/anamika-jha-301a571a4/)
 <h5 align="left">
-- 👩‍💻 I like to code for fun. I am a Data Science and technology enthusiast.
+- 👩‍💻 I like to code for fun and a technology enthusiast.
 </h5>
 
 ## Hobbies:
