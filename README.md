@@ -1,10 +1,10 @@
 ### Hi there I'm Anamika 👋
+- 💾 I'm a technology enthusiast, who likes to code.
 - 📚 I’m currently learning Docker 🐋 
 - 💽 Languages that I know are Python, Java, Html, CSS & JavaScript, Bootstrap, React.js, Flask
 - 📫 You can reach me out on my Twitter at [imrllyanamika](https://twitter.com/imrllyanamika) or at my [LinkedIn](https://www.linkedin.com/in/anamika-jha-301a571a4/)
 <h5 align="left">
-- 👩‍💻 I like to code. 
-</h5>
+
 
 ## Hobbies:
   💠 I like singing and cycling.
