@@ -1,5 +1,5 @@
 ### Hi there I'm Anamika 👋
-- 💾 I'm a technology enthusiast, who likes to code.
+- 💾 I'm a technology enthusiast, and frontend developer who likes to code.
 - 📚 I’m currently learning Docker 🐋 
 - 💽 Languages and frameworks that I know are Python, C++, Html, CSS & JavaScript, MySQL, Bootstrap, React.js, Flask
 - 📫 You can reach me out on my Twitter at [imrllyanamika](https://twitter.com/imrllyanamika) or at my [LinkedIn](https://www.linkedin.com/in/anamika-jha-301a571a4/)
