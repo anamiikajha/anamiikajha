@@ -9,7 +9,9 @@
 ## Hobbies:
 💠 I like singing and cycling.
 
-### My Stats: ![Profile View Counter](https://komarev.com/ghpvc/?username=anamiikajha)
+### My Stats:
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=anamiikajha)
 
 [![Anamika's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamiikajha&theme=blue-green)](https://github.com/anamiikajha)
 
@@ -17,7 +19,6 @@
 [![Anamika's github streak](https://github-readme-streak-stats.herokuapp.com/?user=anamiikajha&theme=blue-green)](https://github.com/anamiikajha)
 [![Anamika's github trophy](https://github-profile-trophy.vercel.app/?username=anamiikajha&row=1)](https://github.com/anamiikajha)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=anamiikajha)
 
 ### My Backend Servers are hosted using:
   
