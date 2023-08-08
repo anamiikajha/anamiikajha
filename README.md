@@ -9,10 +9,7 @@
 ## Hobbies:
 💠 I like singing and cycling.
 
->
-![Profile View Counter](https://komarev.com/ghpvc/?username=anamiikajha)
-
-### My Stats:
+### My Stats: ![Profile View Counter](https://komarev.com/ghpvc/?username=anamiikajha)
 
 [![Anamika's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamiikajha&theme=blue-green)](https://github.com/anamiikajha)
 
