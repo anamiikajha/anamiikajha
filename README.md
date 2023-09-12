@@ -7,7 +7,7 @@
 <h5 align="left">
    
 ## Hobbies:
-- 💠 I like singing and cycling.
+- 💠 I like reading and cycling.
 
 ### My Stats:
 
