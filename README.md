@@ -1,7 +1,8 @@
 ### Hi there I'm Anamika 👋
 - 💾 I'm a frontend developer and technology enthusiast.
 - 📚 I’m currently learning Docker 🐋 
-- 💽 Languages and frameworks that I know are C, C++, Python, HTML, CSS & JavaScript, React.js, Next.js, MySQL, Tailwind, Bootstrap, Flask
+- 💽 Languages and frameworks that I know are C, C++, Python, HTML, CSS & JavaScript, React.js, Next.js, MySQL, Tailwind, Bootstrap,
+     Flask
 - 📫 You can reach me out on my Twitter at [imrllyanamika](https://twitter.com/imrllyanamika) or at my [LinkedIn](https://www.linkedin.com/in/anamika-jha-301a571a4/)
 <h5 align="left">
    
