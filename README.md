@@ -10,7 +10,7 @@
 ## Hobbies:
 - 💠 I like reading and cycling.
 
-### My Stats:
+## My Stats:
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=anamiikajha)
 
