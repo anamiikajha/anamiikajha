@@ -1,4 +1,5 @@
-### Hi there I'm Anamika 👋
+## Hi there I'm Anamika 👋
+
 - 💾 I'm a frontend developer and technology enthusiast.
 - 📚 I’m currently learning Docker 🐋 & kubernetes ☸️
  
@@ -8,6 +9,7 @@
 
    
 ## Hobbies:
+
 - 💠 I like reading and cycling.
 
 ## My Stats:
