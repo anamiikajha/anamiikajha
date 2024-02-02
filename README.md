@@ -3,8 +3,8 @@
 - 💾 I'm a frontend developer and technology enthusiast.
 - 📚 I’m continuously learning. 
  
-- 💽 Languages and frameworks that I know are C, C++, Python, HTML5, CSS3, JavaScript, React.js, Node.js, Next.js, MySQL, Tailwind CSS, Bootstrap, 
-     Flask 
+- 💽 Languages and frameworks that I know are C, C++, Python, HTML5, CSS3,  Tailwind CSS, Bootstrap, 
+     Flask, JavaScript, React.js, Node.js, Next.js, MySQL,
 - 📫 You can reach me out on my Twitter at [imrllyanamika](https://twitter.com/imrllyanamika) or at my [LinkedIn](https://www.linkedin.com/in/anamika-jha-301a571a4/)
 
    
