@@ -7,10 +7,6 @@
      Flask, JavaScript, React.js, Node.js, Next.js, MySQL,
 - 📫 You can reach me out on my Twitter at [imrllyanamika](https://twitter.com/imrllyanamika) or at my [LinkedIn](https://www.linkedin.com/in/anamika-jha-301a571a4/)
 
-   
-## Hobbies:
-
-- 💠 I like reading and cycling.
 
 ## My Stats:
 
