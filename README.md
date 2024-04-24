@@ -5,7 +5,7 @@
  
 - 💽 Languages and frameworks that I know are C, C++, Python, HTML5, CSS3,  Tailwind CSS, Bootstrap, 
      Flask, JavaScript, React.js, Node.js, Next.js, MySQL,
-- 📫 You can reach me out on my Twitter at [imrllyanamika](https://twitter.com/imrllyanamika) or at my [LinkedIn](https://www.linkedin.com/in/anamika-jha-301a571a4/)
+- 📫 You can reach me out on my Twitter at [anamiikajha](https://twitter.com/anamiikajha) or at my [LinkedIn](https://www.linkedin.com/in/anamika-jha-301a571a4/)
 
 
 ## My Stats:
