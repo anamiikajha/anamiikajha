@@ -1,6 +1,6 @@
 ## Hi there I'm Anamika 👋
 
-- 💾 I'm a frontend developer and technology enthusiast.
+- 💾 I'm a FullStack developer and technology enthusiast.
 - 📚 I’m continuously learning. 
  
 - 💽 Languages and frameworks that I know are C, C++, Python, HTML5, CSS3,  Tailwind CSS, Bootstrap, 
