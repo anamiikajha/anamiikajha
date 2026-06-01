@@ -1,6 +1,6 @@
 ## Hi there I'm Anamika 👋
 
-- 💾 I'm passionate and curious about open source, ai product, ai policy, ai safety policy and ai safety,
+- 💾 I'm passionate and curious about open source, ai product, ai policy, ai safety policy and ai safety.
 - 📚 I’m continuously keen on learning. 
  
 - 💽 Languages, frameworks and DBs that I know are C, C++, Python, Java, JavaScript, React.js, Express.js, Node.js, Next.js, MySQL, MongoDB
