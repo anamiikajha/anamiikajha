@@ -1,10 +1,9 @@
 ## Hi there I'm Anamika 👋
 
-- 💾 I'm a FullStack developer and technology enthusiast.
-- 📚 I’m continuously learning. 
+- 💾 I'm passionate and curious about open source, ai product, ai policy, ai safety policy and ai safety,
+- 📚 I’m continuously keen on learning. 
  
-- 💽 Languages and frameworks that I know are C, C++, Python, HTML5, CSS3,  Tailwind CSS, Bootstrap, 
-     Flask, JavaScript, React.js, Node.js, Next.js, MySQL,
+- 💽 Languages, frameworks and DBs that I know are C, C++, Python, Java, JavaScript, React.js, Express.js, Node.js, Next.js, MySQL, MongoDB
 - 📫 You can reach me out on my Twitter at [anamiikajha](https://twitter.com/anamiikajha) or at my [LinkedIn](https://www.linkedin.com/in/anamika-jha-301a571a4/)
 
 
@@ -13,7 +12,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=anamiikajha)
 
 [![Anamika's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamiikajha&theme=blue-green)](https://github.com/anamiikajha)
-
 
 [![Anamika's github stats](https://github-readme-stats.vercel.app/api?username=anamiikajha&theme=blue-green)](https://github.com/anamiikajha)
 
